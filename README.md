@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Miguel and I'm a student, from Portugal</h2>
+<h2 align="center">Hi! My name is Miguel</h2>
 
 ###
 
@@ -6,6 +6,16 @@
   
   [![mgdiogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgdiogo&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
   
+</div>
+
+<div align="left">
+  - Hello, my name is Miguel, I'm 24 and I'm a student from Portugal.
+</div>
+<div align="left">
+  - I've recently joined 42 Lisboa school and am learning C, i've developed a few projects, being my favorite ones so far, so_long and minishell.
+</div>
+<div align="left">
+  - Soon i will be learning about C++, web dev... etc
 </div>
 
 ###
