@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="40" />
+  <img width="42" />
   <img align="center" height="100"  src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47zdwsc1rh1a133x0awlic1yfpbee2xyy1ruuu8cci&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
