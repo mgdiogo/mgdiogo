@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Miguel</h2>
+<h2 align="center">Hi!</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47zdwsc1rh1a133x0awlic1yfpbee2xyy1ruuu8cci&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="100" src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47zdwsc1rh1a133x0awlic1yfpbee2xyy1ruuu8cci&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
