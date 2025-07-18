@@ -8,15 +8,18 @@
   
 </div>
 
-<div align="left">
+<p align="left">
   - Hello, my name is Miguel, I'm 26 and I'm a student from Portugal.
-</div>
-<div align="left">
-  - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones, [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell), and [ft_transcendance](https://github.com/angelamcosta/ft_transcendence).
-</div>
-<div align="left">
+</p>
+<p align="left">
+  - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones:
+  <a href="https://github.com/mgdiogo/so_long">so_long</a>, 
+  <a href="https://github.com/angelamcosta/minishell">minishell</a>, and 
+  <a href="https://github.com/angelamcosta/ft_transcendence">ft_transcendence</a>.
+</p>
+<p align="left">
   - I am currently studying NestJS, mostly dedicated to backend developing!
-</div>
+</p>
 
 ###
 
@@ -25,6 +28,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
@@ -32,8 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="45" />
-  <img align="center" height="100"  src="https://media1.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47zdwsc1rh1a133x0awlic1yfpbee2xyy1ruuu8cci&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="ts logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="30" alt="fastify logo" />
 </div>
 
 ###
