@@ -3,10 +3,6 @@
 ---
 
 [![mgdiogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgdiogo&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgdiogo&layout=compact&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
 
 ---
 
@@ -21,6 +17,8 @@
 
 **Languages & Tools:**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgdiogo&layout=compact&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
@@ -33,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="30"/>
 </div>
+
 ---
 
 ### 🔗 Connect with me
