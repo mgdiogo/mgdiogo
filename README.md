@@ -9,13 +9,13 @@
 </div>
 
 <div align="left">
-  - Hello, my name is Miguel, I'm 24 and I'm a student from Portugal.
+  - Hello, my name is Miguel, I'm 26 and I'm a student from Portugal.
 </div>
 <div align="left">
-  - I've recently joined 42 Lisboa school and am learning C, i've developed a few projects, being my favorite ones so far, so_long and minishell.
+  - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones, [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell) and [ft_transcendance](https://github.com/angelamcosta/ft_transcendence).
 </div>
 <div align="left">
-  - Soon i will be learning about C++, web dev... etc
+  - I am currently studying NestJS, mostly dedicated to backend developing!
 </div>
 
 ###
