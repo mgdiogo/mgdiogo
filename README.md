@@ -10,6 +10,7 @@
 - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones:  
   [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell), and [ft_transcendence](https://github.com/angelamcosta/ft_transcendence).  
 - I am currently studying NestJS, mostly dedicated to backend developing!
+- Currently developing a personal project with the drive of learning more! [DevPort](https://github.com/mgdiogo/DevPort) 
 
 ---
 
