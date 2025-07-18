@@ -12,7 +12,7 @@
   - Hello, my name is Miguel, I'm 26 and I'm a student from Portugal.
 </div>
 <div align="left">
-  - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones, [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell) and [ft_transcendance](https://github.com/angelamcosta/ft_transcendence).
+  - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones, [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell), and [ft_transcendance](https://github.com/angelamcosta/ft_transcendence).
 </div>
 <div align="left">
   - I am currently studying NestJS, mostly dedicated to backend developing!
