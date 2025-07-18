@@ -2,7 +2,7 @@
 
 ---
 
-[![mgdiogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgdiogo&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
+[![mgdiogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgdiogo&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Languages & Tools:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgdiogo&layout=compact&theme=synthwave)](https://github.com/mgdiogo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgdiogo&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
