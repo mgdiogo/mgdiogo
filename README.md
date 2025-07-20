@@ -42,7 +42,7 @@
 
 ---
 
-[![mpedroso's 42 stats](https://badge.mediaplus.ma/greenbinary/mpedroso?UM6P=off)](https://github.com/oakoudad/badge42)
+[![mpedroso's 42 stats](https://badge.mediaplus.ma/starryblue/mpedroso?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
