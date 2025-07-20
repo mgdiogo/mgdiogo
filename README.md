@@ -42,4 +42,8 @@
 
 ---
 
+[![mpedroso's 42 stats](https://badge.mediaplus.ma/greenbinary/mpedroso?UM6P=off)](https://github.com/oakoudad/badge42)
+
+---
+
 ![Snake animation](https://raw.githubusercontent.com/mgdiogo/mgdiogo/output/snake.svg)
