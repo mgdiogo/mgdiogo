@@ -7,8 +7,7 @@
 - Hello, my name is Miguel, I'm 26 and I'm a student from Portugal.  
 - I've recently finished my studies at 42 Lisboa! I've developed a few projects, being my favorite ones:  
   [so_long](https://github.com/mgdiogo/so_long), [minishell](https://github.com/angelamcosta/minishell), and [ft_transcendence](https://github.com/angelamcosta/ft_transcendence).  
-- I am currently studying NestJS, mostly dedicated to backend developing!
-- Currently developing a personal project with the drive of learning more! [MiniTrello](https://github.com/mgdiogo/MiniTrello) 
+- I am currently studying Java using Spring Boot and React, while developing a personal project with the drive of learning more! [MiniTrello](https://github.com/mgdiogo/MiniTrello) 
 
 ---
 
@@ -33,15 +32,15 @@
 
 ---
 
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-diogo-26b709373/)](https://www.linkedin.com/in/miguel-diogo-26b709373)
-[![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:miguel.g.diogo@gmail.com)
-
----
-
 [![mpedroso's 42 stats](https://badge.mediaplus.ma/starryblue/mpedroso?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/mgdiogo/mgdiogo/output/snake.svg)
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-diogo-26b709373/)](https://www.linkedin.com/in/miguel-diogo-26b709373)
+[![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](mailto:miguel.g.diogo@gmail.com)
